@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+img{
+    border: 5px solid white;
+  width: 100%;
+}
+div{
+    width: 50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+p{
+    font-family: "Qwitcher Grypen", cursive;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100px;
+    color:pink;
+  }
+
+  h1 {
+    font-family: "Londrina Sketch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color:aquamarine;
+    font-size: 70;
+    
+  }
+.hi{
+  font-family: "Sixtyfour Convergence", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 50px;
+  font-variation-settings:
+    "BLED" 0,
+    "SCAN" 0,
+    "XELA" 0,
+    "YELA" 0;
+}
+h2{
+  color:blue;
+}
+  
+  
+  
